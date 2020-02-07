@@ -14,4 +14,6 @@ public class User {
 
     private String local;
 
+    private String address;
+
 }
